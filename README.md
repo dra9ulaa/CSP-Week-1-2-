@@ -9,7 +9,7 @@ Deconstruction Practice2
 A certain shape of note (physical)| Sound | Playing the music based on notes sequentially | Put the physical note down to the table
 The sound of each note/clef | Tracking lines| | Press the loop button
 The name of each note|Text||Press the play button
-Different musical instruments|| Change the position of the notes
+Different musical instruments|||Change the position of the notes
 Where is the note on the table||
 
 
